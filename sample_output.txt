@@ -1,0 +1,20 @@
+
+DICTIONARY APPLICATION USING HASH TABLES
+
+Word 'cat' added successfully.
+Word 'act' added successfully.
+Word 'dog' added successfully.
+Word 'god' added successfully.
+Word 'apple' added successfully.
+
+Searching Words:
+Meaning of 'cat': A small domesticated animal
+Meaning of 'act': To do something
+Word 'bird' not found in dictionary.
+
+Dictionary Contents:
+Index 0: apple - A fruit
+Index 2: cat - A small domesticated animal
+Index 2: act - To do something
+Index 4: dog - A domesticated animal
+Index 4: god - A divine being
